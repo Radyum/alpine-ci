@@ -5,4 +5,16 @@ RUN apk add --no-cache \
         bash \
         git \
         curl \
-        openssh-client
+        openssh-client \
+        php \
+        composer \
+        php-ctype \
+        php-iconv \
+        php-mbstring \
+        php-xml \
+        php-ctype \
+        php-dom \
+        php-zip \
+        php-pdo \
+        php-xmlwriter \
+        php-tokenizer
