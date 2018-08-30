@@ -1,2 +1,2 @@
 # extended-alpine
-Alpine with Curl, Git and Bash
+Alpine with Curl, Git, Bash, PHP and Composer 
